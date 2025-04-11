@@ -1,8 +1,4 @@
-Building an AI Agent Chatbot with Integration App
-
----
-
-In this post, we’ll walk you through how to create an AI chatbot that can actually perform real actions— such as creating new leads in your CRM— by leveraging the power of **Integration App**. We’ll look under the hood at an example codebase built around OpenAI GPT and HubSpot, though you can adapt it to other LLMs and other integrations.  
+In this example, we’ll walk you through how to create an AI chatbot that can actually perform real actions— such as creating new leads in your CRM— by leveraging the power of **Integration App**. We’ll look under the hood at an example codebase built around OpenAI GPT and HubSpot, though you can adapt it to other LLMs and other integrations.  
 
 We’ll explore the key parts of the application, highlight where Integration App fits in, and show how you can extend this pattern to build agentic AI experiences for your own systems.
 
